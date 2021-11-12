@@ -1,0 +1,121 @@
+{
+    "events":[
+        {
+            "id":1,
+            "title":"Event 1",
+            "description":"This is Event 1",
+            "category":"Sports",
+            "date":"20/07/2021"
+        },
+        {
+            "id":2,
+            "title":"Event 2",
+            "description":"This is Event 2",
+            "category":"Political",
+            "date":"20/07/2021"
+        },
+        {
+            "id":3,
+            "title":"Event 3",
+            "description":"This is Event 3",
+            "category":"Sports",
+            "date":"20/07/2021"
+        },
+        {
+            "id":3,
+            "title":"Event 3",
+            "description":"This is Event 3",
+            "category":"Food",
+            "date":"20/07/2021"
+        },
+        {
+            "id":4,
+            "title":"Event 4",
+            "description":"This is Event 4",
+            "category":"Sports",
+            "date":"20/07/2021"
+        },
+        {
+            "id":5,
+            "title":"Event 5",
+            "description":"This is Event 5",
+            "category":"Food",
+            "date":"20/07/2021"
+        },
+        {
+            "id":6,
+            "title":"Event 6",
+            "description":"This is Event 6",
+            "category":"Sports",
+            "date":"20/07/2021"
+        },
+        {
+            "id":7,
+            "title":"Event 7",
+            "description":"This is Event 7",
+            "category":"Food",
+            "date":"20/07/2021"
+        },
+        {
+            "id":8,
+            "title":"Event 8",
+            "description":"This is Event 8",
+            "category":"Political",
+            "date":"20/07/2021"
+        },
+        {
+            "id":9,
+            "title":"Event 9",
+            "description":"This is Event 9",
+            "category":"Sports",
+            "date":"20/07/2021"
+        }
+    ],
+    "dashboard":{ 
+           "posts":5,
+           "likes":90,
+           "followers":210,
+           "following":205
+    },
+    "news":[
+        {
+            "id":1,
+            "title":"Article 1 ",
+            "description":"This is About Article 1 ",
+            "category":"Cinema"
+        },
+        {
+            "id":2,
+            "title":"Article 2 ",
+            "description":"This is About Article 2 ",
+            "category":"Politics"
+        },
+        {
+            "id":3,
+            "title":"Article 3 ",
+            "description":"This is About Article 3 ",
+            "category":"Sports"
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"this is product 1",
+            "price":900,
+            "description":"this is the very good product 1"
+        },
+        {
+            "id":2,
+            "title":"this is product 2",
+            "price":800,
+            "description":"this is the very good product 2"
+        },
+        {
+            "id":3,
+            "title":"this is product 3",
+            "price":700,
+            "description":"this is the very good product 3"
+        }
+    ]
+    
+}
